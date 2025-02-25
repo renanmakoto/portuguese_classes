@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const fileList = document.getElementById("file-list");
 
     const files = [
-        { name: "📊 Slides - Aula 5", url: "fev -19.pptx", icon: "fas fa-file-powerpoint" },
+        { name: "📊 Slides - Aula 5", url: "./fev -19.pptx", icon: "fas fa-file-powerpoint" },
     ];
 
     files.forEach(file => {
