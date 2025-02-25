@@ -114,6 +114,11 @@ p {
     color: #002776;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 footer {
     margin-top: 20px;
     font-size: 14px;
