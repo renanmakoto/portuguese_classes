@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // List of available days (folders)
     const directories = [
-        { name: "📅 03 de fevereiro", url: "dia1/" },
         { name: "📅 05 de fevereiro", url: "dia2/" },
         { name: "📅 10 de fevereiro", url: "dia3/" },
         { name: "📅 12 de fevereiro", url: "dia4/" },
