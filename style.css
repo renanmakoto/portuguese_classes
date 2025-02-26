@@ -69,6 +69,10 @@ a {
     color: white;
 }
 
+h2 {
+    color: red;
+}
+
 footer {
     margin-top: 20px;
     font-size: 14px;
