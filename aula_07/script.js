@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const files = [
         { name: "📊 Slides - Aula 7", url: "./Fev-26.pptx", icon: "fas fa-file-powerpoint" },
-        { name: "📝 Documentos - Aula 7", url: "", icon: "fas fa-file-word" }
+        { name: "📝 Documentos - Aula 7", url: "./Fev-26.docx", icon: "fas fa-file-word" }
     ]
 
     files.forEach(file => {
