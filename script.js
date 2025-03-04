@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { name: "📅 19 de fevereiro", url: "aula_05/" },
         { name: "📅 24 de fevereiro", url: "aula_06/" },
         { name: "📅 26 de fevereiro", url: "aula_07/" },
+        { name: "📅 03 de março", url: "aula_08/" },
     ]
 
     directories.forEach(dir => {
