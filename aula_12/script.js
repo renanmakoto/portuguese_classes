@@ -2,9 +2,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const fileList = document.getElementById("file-list")
 
     const files = [
-        { name: "📊 Slides - Aula 11", url: "./mar-12.pptx", icon: "fas fa-file-powerpoint" },
-        { name: "📊 PDF - Aula 11", url: "./mar-12.pdf", icon: "fas fa-file-powerpoint" },
-        { name: "📊 PDF - Aula 11", url: "./mar-12-1.pdf", icon: "fas fa-file-powerpoint" },
+        { name: "📊 Slides - Aula 12", url: "./mar-17.pptx", icon: "fas fa-file-powerpoint" },
+        { name: "📊 PDF - Aula 12", url: "./mar-17.pdf", icon: "fas fa-file-powerpoint" },
+        { name: "📊 PDF - Aula 12", url: "./mar-17-1.pdf", icon: "fas fa-file-powerpoint" },
+        { name: "📊 PDF - Aula 12", url: "./mar-17-2.pdf", icon: "fas fa-file-powerpoint" },
+        { name: "📊 PDF - Aula 12", url: "./mar-17.docx", icon: "fas fa-file-powerpoint" },
     ]
 
     files.forEach(file => {
